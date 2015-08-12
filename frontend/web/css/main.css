@@ -1,0 +1,93 @@
+.wrap{
+	width:100%;
+}
+.wrapper.container{
+	width:100%;
+}
+.navbar-inverse{
+	background-color: #668B8B;
+	border-color: #668B8B;
+}
+.navbar-inverse.navbar-fixed-top.navbar{
+	
+	height: 50px;
+}
+nav.navbar.navbar-default{
+	
+	height:35px;
+	background-color: #DCE8E8;
+}
+.wrap > .container{
+	padding: 48px 0px 20px 0px;
+}
+.col-sm-3.col-md-3 {
+	margin-left: 50px;
+	position: relative;
+	width: 700px;
+}
+
+.nav > li > a > img{
+		height:27px;
+}
+.input-group{
+	width: 100%;
+}
+.btn-group{
+	float:left;
+
+}
+span.glyphicon-user {
+    font-size: 1.9em;
+}
+span.glyphicon-bell {
+    font-size: 1.9em;
+}
+span.glyphicon-shopping-cart {
+    font-size: 1.9em;
+}		
+.container{
+	width:100%;
+}
+
+.rack{
+	text-align: center;
+}
+
+.col-lg-6{
+	
+}
+.navbar-inverse .navbar-brand{
+	color:white;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color:white;
+}
+
+.dropdown-full{
+	/* I'm so sorry inherit !important */
+	position: inherit !important;
+}
+
+.dropdown-full .dropdown-menu{
+	position:absolute;
+	width:40%;
+	left:300px;
+}
+
+.bulletin-type{
+	list-style-type: square;
+}
+
+.modal {
+  position: fixed;
+  top: 100;
+  right: 100;
+  bottom: 100;
+  left: 100;
+  z-index: 1050;
+  display: none;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  outline: 0;
+}
